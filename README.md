@@ -1,2 +1,2 @@
 # assemblyEndgame
-This Assembly End game is a that allow the user to project or safe the programming language through selecting random words. 
+This Assembly End game allows the player to protect or save the programming language by selecting random words. 
